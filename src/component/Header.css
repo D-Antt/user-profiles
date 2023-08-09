@@ -1,0 +1,8 @@
+.header-container {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid cornflowerblue;
+    padding: 0 20px;
+}
